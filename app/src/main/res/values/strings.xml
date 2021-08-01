@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YachtClub</string>
+    <string name="contacts">Contacts</string>
+    <string name="our_yachts">Our Yachts</string>
+    <string name="register">Register</string>
+    <string name="yachts_trips">Yacht trips</string>
+    <string name="buy">Buy</string>
+</resources>
